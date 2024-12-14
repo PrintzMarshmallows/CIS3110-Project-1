@@ -5,9 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 
-cd `CIS3110-Project-1`
-Then, `npm install`
-Run `json-server -w db.json`
+cd `CIS3110-Project-1`.
+Then, `npm install`.
+Run `json-server -w db.json`.
 Finally, run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
